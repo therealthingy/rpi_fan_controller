@@ -1,6 +1,4 @@
 ---
-version: '3.7'
-
 services:
   fan_control:
     container_name: fan_control
